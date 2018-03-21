@@ -4,9 +4,7 @@ Instructions to run:
 
 
 
-Make sure NumPy and SciPy and all other 
-
-imported modules in the program are  are installed
+Make sure NumPy and SciPy and all other imported modules in the program are  are installed.
 
 
 
